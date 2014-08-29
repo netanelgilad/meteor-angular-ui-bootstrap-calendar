@@ -9,6 +9,7 @@ Package.onUse(function(api) {
   api.addFiles('urigo:angular-ui-bootstrap-calendar.js');
   api.use('urigo:ngmeteor@0.2.0', 'client');
   // Client files.
+  api.add_files('ui-bootstrap-tpls.min.js', 'client');
   api.add_files('init.js', 'client');
 });
 
