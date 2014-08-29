@@ -1,6 +1,6 @@
 Package.describe({
   summary: "Meteor package for my fork of ui-bootstrap's date picker",
-  version: "0.0.1",
+  version: "0.0.2",
   git: "https://github.com/Urigo/meteor-angular-ui-bootstrap-calendar.git"
 });
 
